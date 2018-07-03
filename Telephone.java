@@ -73,7 +73,6 @@ public class Telephone{
 	 * @param numberLine the unformatted telephone number as a String.
 	 * @return the formatted telephone number as a String
 	 */
-	 */
 	public String format(String numberLine) {
 		StringBuilder fixedNumber = new StringBuilder("");
 		this.duplicate = false;
